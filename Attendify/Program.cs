@@ -12,6 +12,12 @@ class Empleado
         get { return _dui; }
         set { _dui = value; }
     }
+    private string nombre;
+    public string Nombre
+    {
+        get { return nombre; }
+        set {  nombre = value; }
+    }
 
 
 }
