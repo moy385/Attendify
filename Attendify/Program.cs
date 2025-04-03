@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Attendify
+class Empleado
 {
-    class Program
+    protected string _dui;
+    public string DUI
     {
-        static void Main(string[] args)
-        {
-        }
+        get { return _dui; }
+        set { _dui = value; }
     }
+
+
 }
