@@ -25,5 +25,5 @@ class Empleado
     ///askjdaksdkajsdalkdjasd
     }
 
-    //ola q ace
+    //ola q ac
 }
