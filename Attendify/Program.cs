@@ -21,7 +21,21 @@ class Empleado
 
     class cualquieranose
     {
-    //sea lo q sea dsadasd
-    ///askjdaksdkajsdalkdjasd
+        //sea lo q sea dsadasd
+        ///askjdaksdkajsdalkdjasd
+    }
+
+    class teoria 
+    {
+        // en teoria esto debe de aparecer
+        //Nueva prueba
+        //2da prueba
+        //3ra prueba
+    }
+    class chambita
+    {
+    //creo yo chamba que debe ser dentro de una clase, no se si estoy equivocado porque es algo ilogico
+    //Supongo, porque ya funciona bien
+    //Vrgon, ahorita
     }
 }
