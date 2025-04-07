@@ -24,6 +24,4 @@ class Empleado
     //sea lo q sea dsadasd
     ///askjdaksdkajsdalkdjasd
     }
-
-    //ola q ac
 }
