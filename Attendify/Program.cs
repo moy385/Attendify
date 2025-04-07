@@ -21,8 +21,14 @@ class Empleado
 
     class cualquieranose
     {
-    //sea lo q sea dsadasd
-    ///askjdaksdkajsdalkdjasd
+        //sea lo q sea dsadasd
+        ///askjdaksdkajsdalkdjasd
     }
+
+    class teoria 
+    {
+        // en teoria esto debe de aparecer
+    }
+
 
 }
