@@ -38,4 +38,9 @@ class Empleado
     //Supongo, porque ya funciona bien
     //Vrgon, ahorita
     }
+
+    class mois
+    {
+
+    }
 }
