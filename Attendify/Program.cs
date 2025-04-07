@@ -35,6 +35,7 @@ class Empleado
     class chambita
     {
     //creo yo chamba que debe ser dentro de una clase, no se si estoy equivocado porque es algo ilogico
+    //Supongo, porque ya funciona bien
     }
 
 }
