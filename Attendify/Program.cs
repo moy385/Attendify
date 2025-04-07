@@ -28,6 +28,9 @@ class Empleado
     class teoria 
     {
         // en teoria esto debe de aparecer
+        //Nueva prueba
+        //2da prueba
+
     }
 
 
