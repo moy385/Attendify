@@ -19,5 +19,9 @@ class Empleado
         set {  nombre = value; }
     }
 
+    class cualquieranose
+    {
+    //sea lo q sea 
+    }
 
 }
