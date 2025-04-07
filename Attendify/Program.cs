@@ -21,7 +21,7 @@ class Empleado
 
     class cualquieranose
     {
-    //sea lo q sea 
+    //sea lo q sea dsadasd
     }
 
 }
