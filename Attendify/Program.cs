@@ -43,4 +43,8 @@ class Empleado
     {
 
     }
+    class nicolef 
+    { 
+    // fran
+    }
 }
